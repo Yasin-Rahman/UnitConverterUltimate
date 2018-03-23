@@ -1,19 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright 2017 Phil Shadlyn
-  ~
-  ~ Licensed under the Apache License, Version 2.0 (the "License");
-  ~ you may not use this file except in compliance with the License.
-  ~ You may obtain a copy of the License at
-  ~
-  ~    http://www.apache.org/licenses/LICENSE-2.0
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  -->
 
 <resources>
 
@@ -52,8 +37,6 @@
     <string name="prefs_title_decimal_separator">Десятичный разделитель</string>
     <string name="prefs_title_visual">Оформление</string>
     <string name="prefs_title_light_theme">Светлая тема</string>
-    <string name="prefs_title_language">Язык</string>
-    <string name="prefs_summary_language">Выберите язык, который будет использоваться в приложении</string>
     <string name="prefs_title_other">Другое</string>
     <string name="prefs_title_source_code">Просмотр исходного кода</string>
     <string name="pref_summary_source_code">Unit Converter Ultimate - программа с открытым исходным кодом! Вы можете посмотреть исходный код на GitHub.</string>

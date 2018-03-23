@@ -167,6 +167,7 @@ public final class Conversions {
             units.add(new Unit(CHF, R.string.chf, 1 / currency.getChf(), currency.getChf()));
             units.add(new Unit(THB, R.string.thb, 1 / currency.getThb(), currency.getThb()));
             units.add(new Unit(LIRA, R.string.lira, 1 / currency.getLira(), currency.getLira()));
+
         }
 
         addConversion(Conversion.CURRENCY, new Conversion(Conversion.CURRENCY, R.string.currency, units));

@@ -1,19 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright 2017 Phil Shadlyn
-  ~
-  ~ Licensed under the Apache License, Version 2.0 (the "License");
-  ~ you may not use this file except in compliance with the License.
-  ~ You may obtain a copy of the License at
-  ~
-  ~    http://www.apache.org/licenses/LICENSE-2.0
-  ~
-  ~ Unless required by applicable law or agreed to in writing, software
-  ~ distributed under the License is distributed on an "AS IS" BASIS,
-  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  ~ See the License for the specific language governing permissions and
-  ~ limitations under the License.
-  -->
 
 <resources>
 
@@ -52,8 +37,6 @@
     <string name="prefs_title_decimal_separator">جدا کننده ی اعشاری</string>
     <string name="prefs_title_visual">بصری</string>
     <string name="prefs_title_light_theme">استفاده از تم روشن</string>
-    <string name="prefs_title_language">زبان</string>
-    <string name="prefs_summary_language">زبان مورد استفاده را در سراسر برنامه انتخاب کنید</string>
     <string name="prefs_title_other">چیزهای دیگر</string>
     <string name="prefs_title_source_code">نمایش کد منبع</string>
     <string name="pref_summary_source_code">مبدل واحد ها یک نرم افزار متن باز است ! برای نمایش کد منبع کلیک کنید</string>
